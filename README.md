@@ -35,6 +35,6 @@ Este texto esta en **_negrita y cusriva_**
 </body>
 </html>
 ```
-[Esto es un enlace](http://joan23.fjee.edu "Enlace a la web del cole")
+[Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
 
