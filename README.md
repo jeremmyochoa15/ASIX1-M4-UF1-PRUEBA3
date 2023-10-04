@@ -38,3 +38,13 @@ Este texto esta en **_negrita y cusriva_**
 [Esto es un enlace](http://joan23.fje.edu "Enlace a la web del cole")
 
 
+Primera col.|Segunda col.|3 col.|
+|---------------|:-----------:|-------:|
+COL 2 |centrada|35€|
+col 3 es |derecha| 134€|
+estilo cebral |gris blanco|
+clase|ASIX1||M4|
+
+-[ ] OPCION A 
+-[X] OPCION B
+- [ ] OPCION C
